@@ -14,7 +14,7 @@
 ![Git](https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white)&nbsp;
 ![Vim](https://img.shields.io/badge/VIM-019733?style=for-the-badge&logo=vim&logoColor=white)&nbsp;
 
-## Connect with me:
+## Socials:
 
 <p align = "center">
   
