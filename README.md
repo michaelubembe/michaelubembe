@@ -13,3 +13,9 @@
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)&nbsp;
 ![Git](https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white)&nbsp;
 ![Vim](https://img.shields.io/badge/VIM-019733?style=for-the-badge&logo=vim&logoColor=white)&nbsp;
+
+## Connect with me:
+
+<p align = "center">
+  
+[<img src="https://img.shields.io/badge/twitter-%1DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white&color=white" />](https://twitter.com/moss_plantt) 
