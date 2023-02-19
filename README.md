@@ -18,4 +18,4 @@
 
 <p align = "center">
   
-[<img src="https://img.shields.io/badge/twitter-%1DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white&color=white" />](https://twitter.com/moss_plantt) 
+[<img src="https://img.shields.io/badge/twitter-%1DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white&color=blue" />](https://twitter.com/moss_plantt) 
