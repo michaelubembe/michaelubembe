@@ -15,7 +15,7 @@
 ![Vim](https://img.shields.io/badge/VIM-019733?style=for-the-badge&logo=vim&logoColor=white)&nbsp;
 ![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)&nbsp;
 ![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=white)&nbsp;
-![Next](https://img.shields.io/badge/Next-000000?style=for-the-badge&logo=next&logoColor=white)&nbsp;
+![Next](https://img.shields.io/badge/Next-000000?style=for-the-badge&logo=nextjs&logoColor=white)&nbsp;
 
 ## Connect with me
 
