@@ -16,7 +16,7 @@
 ![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)&nbsp;
 ![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=white)&nbsp;
 ![Next](https://img.shields.io/badge/Next.Js-000000?style=for-the-badge&logo=next.js&logoColor=white)&nbsp;
-![Jupyter](https://img.shields.io/badge/Jupyter Notebooks-F37626?style=for-the-badge&logo=jupyter&logoColor=white)&nbsp;
+![Jupyter](https://img.shields.io/badge/JupyterNotebooks-F37626?style=for-the-badge&logo=jupyter&logoColor=white)&nbsp;
 
 ## Connect with me
 
