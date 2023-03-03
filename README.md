@@ -1,4 +1,4 @@
-## Skills:
+## </> Skills and tchnologies:
 
 #### Languages:
 
