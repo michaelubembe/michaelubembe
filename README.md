@@ -18,7 +18,7 @@
 ![Next](https://img.shields.io/badge/Next.Js-000000?style=for-the-badge&logo=next.js&logoColor=white)&nbsp;
 ![Jupyter](https://img.shields.io/badge/Jupyter_Notebooks-F37626?style=for-the-badge&logo=jupyter&logoColor=white)&nbsp;
 
-## Connect with me
+## $_ social media
 
 <p align = "center">
   
