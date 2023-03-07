@@ -1,4 +1,4 @@
-## ~$_ skills and technologies...
+## ~$_ skills and technologies..
 
 #### Languages: </>
 
