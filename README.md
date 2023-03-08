@@ -8,7 +8,7 @@
 ![Markdown](https://img.shields.io/badge/markdown-%23000000.svg?style=for-the-badge&logo=markdown&logoColor=white)&nbsp;
 ![C](https://img.shields.io/badge/Programming-A8B9CC?style=for-the-badge&logo=c&logoColor=white)&nbsp;
 
-#### Tools and Technologies
+#### Tools and Technologies:
 
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)&nbsp;
 ![Git](https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white)&nbsp;
